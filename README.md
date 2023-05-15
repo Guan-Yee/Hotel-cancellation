@@ -9,6 +9,6 @@ the LGBM have the most outstanding performance. Considering the accuracy and abi
 datasets, the LGBM model will be our final choice.
 
 ## References
-* Dataset source [Tidy Tuesday]: https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-11/readme.md
-* Original Hotel Research Paper (Antionio, et al., 2019) [Data in Brief]: https://www.sciencedirect.com/science/article/pii/S2352340918315191
+* Dataset source [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-11/readme.md)
+* Original Hotel Research Paper (Antionio, et al., 2019) [Data in Brief](https://www.sciencedirect.com/science/article/pii/S2352340918315191)
 
